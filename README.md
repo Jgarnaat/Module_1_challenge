@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+*/
 # <Your-Project-Title>
 
 ## Description
@@ -17,9 +17,13 @@ I also added alt text as the pictures initially had no alternative texts for scr
 
 v1.1.2
 Changed title from "webpage" to "HoriSEOn Social Solutions"
-Removed access <div> tags and replaced them with appropriate element tags
-made the <h1> to <h4> tags appear in logical order
+
+Removed access div tags and replaced them with appropriate element tags
+
+made the h1 to h4 tags appear in logical order
+
 added alt texts to pictures
+
 ## Credits
 
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide used for ReadMe Template
@@ -27,3 +31,4 @@ https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide u
 https://github.com/coding-boot-camp/urban-octo-telegram provided starter code
 
 
+/*
